@@ -183,20 +183,3 @@ label[for="respuesta"] span {
   font-weight: bold;
   text-align: center;
 }
-
-
-.pie-pagina{
-  margin: 1m 0 0 0;
-  padding: 10px 0;
-  font-size: 12px;
-  color: black;
-  text-align: center;
-  font-weight: bold;
-  
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  flex-wrap: wrap;
-
-  
-}
